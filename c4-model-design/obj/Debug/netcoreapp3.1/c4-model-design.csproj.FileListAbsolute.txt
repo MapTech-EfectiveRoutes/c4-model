@@ -1,0 +1,17 @@
+/Users/andresdoig/Downloads/c4-model-design-master/c4-model-design/bin/Debug/netcoreapp3.1/c4-model-design.deps.json
+/Users/andresdoig/Downloads/c4-model-design-master/c4-model-design/bin/Debug/netcoreapp3.1/c4-model-design.runtimeconfig.json
+/Users/andresdoig/Downloads/c4-model-design-master/c4-model-design/bin/Debug/netcoreapp3.1/c4-model-design.runtimeconfig.dev.json
+/Users/andresdoig/Downloads/c4-model-design-master/c4-model-design/bin/Debug/netcoreapp3.1/c4-model-design.dll
+/Users/andresdoig/Downloads/c4-model-design-master/c4-model-design/bin/Debug/netcoreapp3.1/c4-model-design.pdb
+/Users/andresdoig/Downloads/c4-model-design-master/c4-model-design/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/andresdoig/Downloads/c4-model-design-master/c4-model-design/bin/Debug/netcoreapp3.1/Structurizr.Client.dll
+/Users/andresdoig/Downloads/c4-model-design-master/c4-model-design/bin/Debug/netcoreapp3.1/Structurizr.Core.dll
+/Users/andresdoig/Downloads/c4-model-design-master/c4-model-design/obj/Debug/netcoreapp3.1/c4-model-design.csproj.AssemblyReference.cache
+/Users/andresdoig/Downloads/c4-model-design-master/c4-model-design/obj/Debug/netcoreapp3.1/c4-model-design.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andresdoig/Downloads/c4-model-design-master/c4-model-design/obj/Debug/netcoreapp3.1/c4-model-design.AssemblyInfoInputs.cache
+/Users/andresdoig/Downloads/c4-model-design-master/c4-model-design/obj/Debug/netcoreapp3.1/c4-model-design.AssemblyInfo.cs
+/Users/andresdoig/Downloads/c4-model-design-master/c4-model-design/obj/Debug/netcoreapp3.1/c4-model-design.csproj.CoreCompileInputs.cache
+/Users/andresdoig/Downloads/c4-model-design-master/c4-model-design/obj/Debug/netcoreapp3.1/c4-model-design.csproj.CopyComplete
+/Users/andresdoig/Downloads/c4-model-design-master/c4-model-design/obj/Debug/netcoreapp3.1/c4-model-design.dll
+/Users/andresdoig/Downloads/c4-model-design-master/c4-model-design/obj/Debug/netcoreapp3.1/c4-model-design.pdb
+/Users/andresdoig/Downloads/c4-model-design-master/c4-model-design/obj/Debug/netcoreapp3.1/c4-model-design.genruntimeconfig.cache
